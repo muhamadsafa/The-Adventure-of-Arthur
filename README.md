@@ -39,4 +39,4 @@ sejumlah fitur utama Game :
 - https://pendidikan-ti.ft.unesa.ac.id/
 
 ## 👀 Link Drive Poster & Proposal
-- 
+- https://drive.google.com/drive/folders/1XFkOeAANTjOIbm7sV9e8zUq5rJsYYOVB
